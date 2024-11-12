@@ -2,9 +2,3 @@
 !/.gitignore
 
 **/__pycache__
-
-data/*
-generated_files/*
-file_for_test/*
-models/*
-model/qwen/*
